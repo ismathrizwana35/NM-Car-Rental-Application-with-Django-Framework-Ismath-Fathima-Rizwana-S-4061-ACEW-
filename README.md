@@ -1,1 +1,22 @@
-# NM-Car-Rental-Application-with-Django-Framework-Ismath-Fathima-Rizwana-S-4061-ACEW-
+# NM_FRIDAYBATCH_FSWD_PROJECT
+
+
+Project implemented by: 
+
+
+Name:
+
+
+ID:
+
+
+College name:
+
+
+Login credentials: 
+
+username: root
+
+
+Password: root
+
