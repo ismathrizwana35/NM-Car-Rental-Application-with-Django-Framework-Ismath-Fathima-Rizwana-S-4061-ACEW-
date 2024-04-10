@@ -1,22 +1,22 @@
 # NM_FRIDAYBATCH_FSWD_PROJECT
 
+Car Rental Application with Django Framework
 
-Project implemented by: 
-
-
-Name:
+Project implemented by:  
 
 
-ID:
+Name:Ismath Fathima Rizwana S
 
 
-College name:
+ID:au960221104061
+
+
+College name:Arunachala College of Engineering for Women
 
 
 Login credentials: 
 
-username: root
+username: student
 
-
-Password: root
+Password: 123
 
